@@ -1,3 +1,4 @@
 # req.txt
-snowflake-connector-python
+
 urllib3==1.21.1
+snowflake-connector-python
